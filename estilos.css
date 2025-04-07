@@ -1,0 +1,54 @@
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    background-color: rgb(212, 228, 255);
+}
+
+.caja-1{
+    flex-basis: 3000px;
+    /* flex-grow: 1;
+    flex-shrink: 1; */
+    font-size: 85px;
+    color: white;
+    background-color: rgb(113, 255, 134);
+}
+
+.caja-2{
+    flex-basis: 100px;
+    /* height:80px; */
+    /* flex-grow: 2;
+    flex-shrink: 2; */
+    font-size: 85px;
+    color: white;
+    background-color: rgb(255, 138, 197);
+}
+
+.caja-3{
+    flex-basis: 500px;
+    /* height: 80px; */
+    flex-grow: 1;
+    flex-shrink: 1;
+    font-size: 85px;
+    color: white;
+    background-color: rgb(138, 210, 255);
+}
+
+.caja-4{
+    flex-basis: 100px;
+    /* height: 80px;*/
+    font-size: 85px;
+    color: white;
+    background-color: rgb(216, 138, 255);
+}
+
+.caja-5{
+    flex-basis: 3000px;
+    /* height: 80px; */
+    font-size: 85px;
+    color: white;
+    background-color: rgb(255, 196, 138);
+}
