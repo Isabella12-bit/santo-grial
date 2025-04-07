@@ -10,6 +10,8 @@
 
 .caja-1{
     flex-basis: 3000px;
+    /* width: 200px; */
+    height: 115px;
     /* flex-grow: 1;
     flex-shrink: 1; */
     font-size: 85px;
@@ -19,9 +21,7 @@
 
 .caja-2{
     flex-basis: 100px;
-    /* height:80px; */
-    /* flex-grow: 2;
-    flex-shrink: 2; */
+    height: 450px;
     font-size: 85px;
     color: white;
     background-color: rgb(255, 138, 197);
@@ -29,7 +29,7 @@
 
 .caja-3{
     flex-basis: 500px;
-    /* height: 80px; */
+    height: 450px;
     flex-grow: 1;
     flex-shrink: 1;
     font-size: 85px;
@@ -39,7 +39,7 @@
 
 .caja-4{
     flex-basis: 100px;
-    /* height: 80px;*/
+    height: 450px;
     font-size: 85px;
     color: white;
     background-color: rgb(216, 138, 255);
@@ -47,7 +47,7 @@
 
 .caja-5{
     flex-basis: 3000px;
-    /* height: 80px; */
+    height: 115px;
     font-size: 85px;
     color: white;
     background-color: rgb(255, 196, 138);
